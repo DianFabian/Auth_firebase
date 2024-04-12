@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440655199610",
+    "project_id": "auth-c22f9",
+    "storage_bucket": "auth-c22f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440655199610:android:17e3491fd82f2326b1eac3",
+        "android_client_info": {
+          "package_name": "com.dianafabian.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NrUL9enYIV_E3zF6KMahC5vW623D80Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
